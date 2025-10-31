@@ -1,6 +1,6 @@
 ### Hi (: 💜
 Esta es mi cuenta institucional. Aquí sólamente hay proyectos relacionados con la universidad.  
-Mi cuenta personal de GitHub: [@ClaraCF](https://github.com/claaCF).
+Mi cuenta personal de GitHub: [@ClaraCF](https://github.com/ClaraCF).
 
 <!--
 **ClaraUCAB/ClaraUCAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
